@@ -1,4 +1,2 @@
-import './blocks/block-one';
-import './blocks/block-two';
-import './blocks/block-three';
-import './blocks/block-four';
+// Add editor scripts here
+console.log('Hello from multi-block-editor.js');
