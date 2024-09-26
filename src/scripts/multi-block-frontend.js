@@ -1,2 +1,2 @@
 // Add frontend scripts here
-console.log('frontend scripts test')
+console.log( 'frontend scripts test' );
