@@ -1,1 +1,1 @@
-console.log("Hello from multi-block-editor.js");
+(()=>{"use strict";var e={n:o=>{var t=o&&o.__esModule?()=>o.default:()=>o;return e.d(t,{a:t}),t},d:(o,t)=>{for(var r in t)e.o(t,r)&&!e.o(o,r)&&Object.defineProperty(o,r,{enumerable:!0,get:t[r]})},o:(e,o)=>Object.prototype.hasOwnProperty.call(e,o)};const o=window.wp.blocks,t=window.wp.domReady;e.n(t)()((()=>{(0,o.unregisterBlockStyle)("core/button",["outline"])})),console.log("block editor scripts test")})();
