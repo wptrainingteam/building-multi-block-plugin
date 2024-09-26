@@ -12,7 +12,7 @@
 		"lint:js": "wp-scripts lint-js",
 		"packages-update": "wp-scripts packages-update",
 		"plugin-zip": "wp-scripts plugin-zip",
-		"start": "wp-scripts start --webpack-copy-php && webpack --config webpack.custom.js"
+		"start": "wp-scripts start --webpack-copy-php"
 	},
 	"devDependencies": {
 		"@wordpress/blocks": "^13.8.0",
